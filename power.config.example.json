@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "appId": "YOUR-APP-ID",
+  "appDisplayName": "Code App template",
+  "region": "YOUR-REGION",
+  "environmentId": "YOUR-ENVIRONMENT-ID",
+  "description": "Reusable Power Apps Code App template for a generic Items workspace.",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {}
+}
